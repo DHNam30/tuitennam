@@ -1,0 +1,11 @@
+C:\Users\dangv\source\repos\BT4\BT4\bin\Debug\BT4.exe.config
+C:\Users\dangv\source\repos\BT4\BT4\bin\Debug\BT4.exe
+C:\Users\dangv\source\repos\BT4\BT4\bin\Debug\BT4.pdb
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.csproj.AssemblyReference.cache
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.Form1.resources
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.NhanVienForm.resources
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.Properties.Resources.resources
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.csproj.GenerateResource.cache
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.exe
+C:\Users\dangv\source\repos\BT4\BT4\obj\Debug\BT4.pdb

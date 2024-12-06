@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dangv\\source\\repos\\BT4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|c:\\users\\dangv\\source\\repos\\bt4\\bt4\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|solutionrelative:bt4\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|C:\\Users\\dangv\\source\\repos\\BT4\\bt4\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|solutionrelative:bt4\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|C:\\Users\\dangv\\source\\repos\\BT4\\bt4\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|solutionrelative:bt4\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|C:\\Users\\dangv\\source\\repos\\BT4\\bt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|solutionrelative:bt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|C:\\Users\\dangv\\source\\repos\\BT4\\bt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB634DC4-41A0-4D09-8B68-39DB4F8838B5}|BT4\\BT4.csproj|solutionrelative:bt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\Form1.cs",
+              "RelativeDocumentMoniker": "BT4\\Form1.cs",
+              "ToolTip": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\Form1.cs",
+              "RelativeToolTip": "BT4\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAEwEYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:32:04.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\Form1.cs",
+              "RelativeDocumentMoniker": "BT4\\Form1.cs",
+              "ToolTip": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\Form1.cs [Design]",
+              "RelativeToolTip": "BT4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:22:28.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BT4\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\NhanVien.cs",
+              "RelativeToolTip": "BT4\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:27:18.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\NhanVienForm.cs",
+              "RelativeDocumentMoniker": "BT4\\NhanVienForm.cs",
+              "ToolTip": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\NhanVienForm.cs [Design]",
+              "RelativeToolTip": "BT4\\NhanVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:24:55.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienForm.cs",
+              "DocumentMoniker": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\NhanVienForm.cs",
+              "RelativeDocumentMoniker": "BT4\\NhanVienForm.cs",
+              "ToolTip": "C:\\Users\\dangv\\source\\repos\\BT4\\BT4\\NhanVienForm.cs",
+              "RelativeToolTip": "BT4\\NhanVienForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:27:43.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
